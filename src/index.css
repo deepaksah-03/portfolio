@@ -1,0 +1,17 @@
+ @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@100..900&family=Poppins:wght@100..900&display=swap');
+
+ @import "tailwindcss";
+
+body {
+  
+  --font-poppins: "Poppins", sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+@layer components {
+  .btn {
+    @apply cursor-pointer;
+  }
+}
