@@ -7,7 +7,7 @@ import ProjectSection from './components/ProjectSection';
 import Home from './components/Home';
 import Skills from './components/Skills';
 import Navbar from './components/Navbar';
-import Footer from './components/Footer';
+import Footer from './components/footer';
 
 function App() {
 
