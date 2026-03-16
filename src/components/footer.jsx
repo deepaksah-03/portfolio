@@ -13,7 +13,7 @@ const Footer = () => {
   return (
     <div className='w-[1245px] h-40 bg m-auto flex items-center justify-end gap-5'>
       {/* copyright seaction */}
-      <div className="CopyRight"><p>&copy; {new Date().getFullYear()} Deepak | All right reserved.</p>
+      <div className="CopyRight"><p>&copy; {new Date().getFullYear()} Deepak Kumar Sah | All right reserved.</p>
       </div>
 
       {/* logo section */}
