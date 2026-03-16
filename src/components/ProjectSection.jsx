@@ -13,14 +13,14 @@ const ProjectSection = () => {
     },
     {
       imageSrc: "image/Spreedsheet.png",
-      title: "this is project 2",
+      title: "Spreedsheet Table-Strucutre",
       toolUsed: "react | typescript | tailwind ",
       gitLink: "https://github.com/deepaksah-03/spreadsheet-project-frontend/",
       demoLink: "https://spreadsheets-inscripts.netlify.app/"
     },
     {
       imageSrc: "image/myNotes.png",
-      title: "Spreedsheet Table-Strucutre",
+      title: "My Notebook",
       toolUsed: "react | tailwind |javascript ",
       gitLink: "https://github.com/deepaksah-03/myNotes-app",
       demoLink: "https://my-notes-bo.netlify.app/"
